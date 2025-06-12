@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2417,
-    "timeDay": 2417,
-    "timeWeek": 2417,
-    "timeMonth": 2417,
-    "timeYear": 2417,
+    "time": 2155,
+    "timeDay": 2155,
+    "timeWeek": 2155,
+    "timeMonth": 2155,
+    "timeYear": 2155,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mediguides.com.ico",
     "slug": "mediguides-frontend",
     "status": "down",
-    "uptime": "6.23%",
-    "uptimeDay": "6.23%",
-    "uptimeWeek": "6.23%",
-    "uptimeMonth": "6.23%",
-    "uptimeYear": "6.23%",
-    "time": 338,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
+    "time": 263,
+    "timeDay": 263,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 5
     }
   }
 ]
