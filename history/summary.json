@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mediguides.com.ico",
     "slug": "mediguides-frontend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "6.23%",
+    "uptimeDay": "6.23%",
+    "uptimeWeek": "6.23%",
+    "uptimeMonth": "6.23%",
+    "uptimeYear": "6.23%",
     "time": 338,
     "timeDay": 338,
     "timeWeek": 338,
     "timeMonth": 338,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   }
 ]
