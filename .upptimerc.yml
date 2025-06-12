@@ -24,7 +24,7 @@ status-website:
   baseUrl: /upptime-status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Mediguides
-  introTitle: "**Mediguides** 
+  introTitle: "**Mediguides**"
   introMessage: Using https://github.com/upptime/upptime
   navbar:
     - title: Status
