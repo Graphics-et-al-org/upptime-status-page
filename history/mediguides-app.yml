@@ -1,7 +1,7 @@
-url: https://mediguides-prod.azurewebsites.net/
-status: down
-code: 403
-responseTime: 787
-lastUpdated: 2025-09-02T23:00:56.643Z
+url: https://app.mediguides.com/
+status: up
+code: 200
+responseTime: 1310
+lastUpdated: 2025-09-03T05:20:45.086Z
 startTime: 2025-06-12T05:14:47.225Z
 generator: Upptime <https://github.com/upptime/upptime>
