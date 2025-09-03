@@ -4,7 +4,7 @@ repo: upptime-status-page # The name of this repository
 
 sites:
   - name: Mediguides app
-    url: https://mediguides-prod.azurewebsites.net/
+    url: https://app.mediguides.com/
   - name: Mediguides frontend
     url: https://www.mediguides.com/
   #- name: Hacker News
