@@ -1,7 +1,7 @@
 url: https://app.mediguides.com/
-status: down
-code: 503
-responseTime: 883
-lastUpdated: 2026-02-13T07:17:38.172Z
+status: up
+code: 200
+responseTime: 1662
+lastUpdated: 2026-02-13T07:39:15.594Z
 startTime: 2025-06-12T05:14:47.225Z
 generator: Upptime <https://github.com/upptime/upptime>
