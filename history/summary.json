@@ -42,19 +42,20 @@
     "url": "https://www.mediguides.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mediguides.com.ico",
     "slug": "mediguides-frontend",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 189,
-    "timeWeek": 362,
-    "timeMonth": 342,
+    "timeDay": 216,
+    "timeWeek": 347,
+    "timeMonth": 338,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2026-04-02": 21
+      "2026-04-02": 21,
+      "2026-08-23": 5
     }
   }
 ]
