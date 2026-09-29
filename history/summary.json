@@ -4,17 +4,17 @@
     "url": "https://app.mediguides.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.mediguides.com.ico",
     "slug": "mediguides-app",
-    "status": "down",
-    "uptime": "90.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 1796,
-    "timeDay": 16393,
-    "timeWeek": 5447,
-    "timeMonth": 2712,
-    "timeYear": 1900,
+    "status": "up",
+    "uptime": "90.82%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.85%",
+    "time": 1795,
+    "timeDay": 11477,
+    "timeWeek": 5025,
+    "timeMonth": 2680,
+    "timeYear": 1899,
     "dailyMinutesDown": {
       "2025-10-29": 271,
       "2025-11-17": 267,
@@ -22,7 +22,8 @@
       "2026-02-13": 22,
       "2026-03-28": 46,
       "2026-04-13": 39,
-      "2026-05-02": 80
+      "2026-05-02": 80,
+      "2026-09-29": 23
     }
   },
   {
